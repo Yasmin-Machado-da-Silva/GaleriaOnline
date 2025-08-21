@@ -15,7 +15,6 @@
 
 ## 🛠️ **Tecnologias Utilizadas** 🔧  
 - **Linguagem**: JavaScript  
-- **Framework/Lib**: React Native (ambiente de estudo)  
 - **Estilização**: StyleSheet  
 - **Bibliotecas**: Axios (requisições), FormData (upload)  
 - **Backend Simulado**: Node.js (para testes)  
