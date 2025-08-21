@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ **Tecnologias Utilizadas** 🔧  
-- **Linguagem**: JavaScript  
+- **Linguagem**: JavaScript/C#  
 - **Estilização**: StyleSheet  
 - **Bibliotecas**: Axios (requisições), FormData (upload)  
 - **Backend Simulado**: Node.js (para testes)  
