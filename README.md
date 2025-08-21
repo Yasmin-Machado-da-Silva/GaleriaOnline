@@ -29,7 +29,7 @@
 - [✅] **Upload de imagem**  
 - [✅] **Busca por ID**  
 - [✅] **Atualização de imagem**  
-- [✅] **Deleção de imagem**  
+- [✅] **Rremoção de imagem(Deletar)**  
 
 ---
 
