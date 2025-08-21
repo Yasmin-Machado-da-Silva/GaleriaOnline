@@ -143,7 +143,7 @@ namespace GaleriaOnline.WebApi.Controllers
             var imagem = await _repository.GetByIdAsync(id);
             if (imagem == null)
             {
-                return NotFound("imagem não encontrada"):
+                return NotFound("imagem não encontrada");
             }
 
             var caminhoFisico = Path.Combine(Directory.GetCurrentDirectory
