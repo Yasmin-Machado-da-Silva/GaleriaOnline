@@ -1,6 +1,7 @@
 using GaleriaOnline.WebApi.DbContextImagem;
 using GaleriaOnline.WebApi.Repositories;
 using Microsoft.EntityFrameworkCore;
+using GaleriaOnline.WebApi.Interface;
 
 var builder = WebApplication.CreateBuilder(args);
 
